@@ -1,0 +1,4 @@
+django/
+backEnd/trividb/migrations
+backEnd/backEnd/.env
+**/__pycache__
