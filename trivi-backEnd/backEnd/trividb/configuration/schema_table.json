@@ -1,0 +1,7 @@
+{
+    "product": {
+        "model_name": "Product",
+        "fields": ["id", "productName", "productCategory", "productType"],
+        "view_detail": true
+    }
+}
